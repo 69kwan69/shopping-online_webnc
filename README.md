@@ -1,0 +1,1 @@
+This is a _small_ class assignment during the time I went to university. This project basically covers all the stuff that are essential and related to web development, esspecially on the back-end side. So it's worth learning for me during that time.
